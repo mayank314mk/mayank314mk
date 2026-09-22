@@ -64,7 +64,7 @@ An e-commerce platform for buying and exploring collectible Indian coins.
   <a href="https://www.linkedin.com/in/mayank-8a1233257/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mayank314mk@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mayank314mk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
